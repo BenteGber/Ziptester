@@ -1,0 +1,19 @@
+.container {
+
+    text-align: center!important;
+    flex-flow: column!important;
+    margin-top: 10rem;
+    font-size: 1.5rem;
+      background-color: gainsboro;
+      border-radius: 1rem;
+      width: 50%
+}
+
+button{
+    border-radius: .75rem;
+}
+.card-title {
+   padding: 1rem;
+
+
+}
